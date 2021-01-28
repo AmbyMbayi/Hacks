@@ -8,6 +8,7 @@ $ mv composer.phar /usr/local/bin/composer
 to check if laravel is installed
 
 $ laravel
+
 $ composer
 
 
