@@ -1,6 +1,16 @@
 ## Laravel
 ### `installing Composer`
-curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+$ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+
+for kali linux  add this after the first command
+$ mv composer.phar /usr/local/bin/composer
+
+to check if laravel is installed
+
+$ laravel
+$ composer
+
+
 
 ### `creating laravel project`
 (windows)
