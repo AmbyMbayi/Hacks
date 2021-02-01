@@ -13,6 +13,8 @@ Type on terminal:
 When composer finish, type:
 $ sudo nano ~/.bashrc
 
+Paste and save:
+$ export PATH="~/.config/composer/vendor/bin:$PATH"
 
 
 to check if laravel is installed
