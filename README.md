@@ -16,6 +16,9 @@ $ sudo nano ~/.bashrc
 Paste and save:
 $ export PATH="~/.config/composer/vendor/bin:$PATH"
 
+Type on terminal:
+$ source ~/.bashrc
+
 
 to check if laravel is installed
 
