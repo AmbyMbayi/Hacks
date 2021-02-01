@@ -8,9 +8,11 @@ $ mv composer.phar /usr/local/bin/composer
 $ sudo laravel global require laravel/installer
 
 Type on terminal:
-
- 
  $ composer global require "laravel/installer"
+ 
+When composer finish, type:
+$ sudo nano ~/.bashrc
+
 
 
 to check if laravel is installed
