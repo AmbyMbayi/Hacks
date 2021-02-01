@@ -21,6 +21,7 @@ $ source ~/.bashrc
 
 
 to check if laravel is installed
+Open another terminal window and type: laravel
 
 $ laravel
 
