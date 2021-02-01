@@ -30,7 +30,8 @@ $ composer
 You need to have mbstring install so that laravel can start a project
 $sudo apt-get install php-gd php-xml php-mbstring
 
-
+### `installing Xampp in kali linux`
+https://www.how2shout.com/linux/how-to-install-and-start-xampp-server-on-kali-linux/
 
 ### `creating laravel project`
 (windows)
