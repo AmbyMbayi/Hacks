@@ -27,6 +27,9 @@ $ laravel
 
 $ composer
 
+You need to have mbstring install so that laravel can start a project
+$sudo apt-get install php-gd php-xml php-mbstring
+
 
 
 ### `creating laravel project`
