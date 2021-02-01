@@ -40,5 +40,6 @@ After installing composer and xampp
 2. in the config > database.php file, set database_name, username as root, password(no password)
 3. run php artisan migrate
 
-
+### `installing nodejs kali linux`
+sudo apt install nodejs npm
 
