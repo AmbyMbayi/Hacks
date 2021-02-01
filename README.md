@@ -4,7 +4,14 @@ $ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/lo
 
 for kali linux  add this after the first command
 $ mv composer.phar /usr/local/bin/composer
+
 $ sudo laravel global require laravel/installer
+
+Type on terminal:
+
+ 
+ $ composer global require "laravel/installer"
+
 
 to check if laravel is installed
 
