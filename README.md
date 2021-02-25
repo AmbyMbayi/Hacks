@@ -43,3 +43,12 @@ After installing composer and xampp
 ### `installing nodejs kali linux`
 sudo apt install nodejs npm
 
+
+### `sending email using laravel`
+
+https://medium.com/graymatrix/using-gmail-smtp-server-to-send-email-in-laravel-91c0800f9662 - setting up "allow less secure apps ON"
+
+https://stackoverflow.com/questions/33939393/failed-to-authenticate-on-smtp-server-error-using-gmail
+
+
+
