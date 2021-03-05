@@ -53,6 +53,9 @@ https://stackoverflow.com/questions/33939393/failed-to-authenticate-on-smtp-serv
 ### `sending email to multiple emails`
 https://laravel.io/forum/how-to-send-email-from-form-to-multiple-email-accounts
 
+### `Social Login using laravel - google`
+https://www.itsolutionstuff.com/post/laravel-6-socialite-login-with-google-gmail-accountexample.html
+
 
 ### `Terminal Themes`
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
