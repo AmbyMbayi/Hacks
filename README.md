@@ -50,6 +50,9 @@ https://medium.com/graymatrix/using-gmail-smtp-server-to-send-email-in-laravel-9
 
 https://stackoverflow.com/questions/33939393/failed-to-authenticate-on-smtp-server-error-using-gmail
 
+### `sending email to multiple emails`
+https://laravel.io/forum/how-to-send-email-from-form-to-multiple-email-accounts
+
 
 ### `Terminal Themes`
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
