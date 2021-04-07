@@ -59,3 +59,7 @@ https://www.itsolutionstuff.com/post/laravel-6-socialite-login-with-google-gmail
 
 ### `Terminal Themes`
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
+
+### `user roles in api using laravel`
+
+https://stackoverflow.com/questions/43901719/laravel-middleware-with-multiple-roles
