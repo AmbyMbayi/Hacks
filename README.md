@@ -1,4 +1,7 @@
-## Laravel
+### Installing laravel on windows
+https://dev.to/sayandeepmajumdar/how-to-install-laravel-project-on-your-windows-10-using-xampp-1g0n
+
+### Laravel on kali linux
 ### `installing Composer`
 $ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 
